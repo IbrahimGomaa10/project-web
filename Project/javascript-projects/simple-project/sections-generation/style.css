@@ -1,0 +1,21 @@
+form {
+  text-align: center;
+}
+
+form .results {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+form .results div {
+  background-color: blueviolet;
+  color: aliceblue;
+  margin-top: 30px;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
